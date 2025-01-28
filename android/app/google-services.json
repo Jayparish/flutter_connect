@@ -1,0 +1,428 @@
+{
+  "project_info": {
+    "project_number": "802096114944",
+    "project_id": "photomall10",
+    "storage_bucket": "photomall10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:7539f05f435d1907e6d7e5",
+        "android_client_info": {
+          "package_name": "com.pravera.flutter_foreground_task_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:0c9848265b98e4a0e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.aaraproduction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:ea687761655e2d21e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.adharshswamystudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:3e798c38c8b51e1ee6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.arrowfocuzphotography"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:dd0bd1e28e831654e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.bollywoodstudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:3723f2d74dbd1289e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.khajotiyaproduction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:5d63dd3c7f3ada3ae6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.leophotography"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:c126e4d75f2dd918e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.lydiacolours"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:c401fe44c239bdd2e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.mmstudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:d23bf2968d8a6890e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.msvphotography"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:f25a5b695861ed69e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.nandhuphoto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:bffc7383f6e9c8dfe6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.nvfilms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:3b0b5ae1f02ce92ee6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.oneclickphotography"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:ea22b14c0505592fe6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.productionra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:69e3e0fccf268714e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.saibalastudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:c578846a8a97dcf1e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.sixtwophotography"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:1a979dbdf01bff2de6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.studiobuff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:9e9e8c84a854ca99e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.sunilgaikwadphotography"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:61df8247e1e75b34e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.thebestphotomancom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:40c89dd91a07520ae6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.venusphotos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:11f4ead92de70dd4e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.yogistudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802096114944:android:ea74983ec665e838e6d7e5",
+        "android_client_info": {
+          "package_name": "in.photomall.app.yuviads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmax1KsI2KkbYYFjXzue9C2oagal0a2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
